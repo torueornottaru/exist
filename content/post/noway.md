@@ -14,7 +14,7 @@ categories = [
 
 {{< rawhtml >}} 
 
-<video width=100% controls autoplay>
+<video width=50% controls autoplay>
     <source src="/videos/balls.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
