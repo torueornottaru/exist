@@ -4,11 +4,13 @@ languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
 preserveTaxonomyNames = true
-disqusShortname = 'exist-t4ru-com'
+
 
 [params]
     # The name to display as main title in the home page
     mainpagetitle = "Taru or not to rue"
+
+    disqusShortname = 'exist-t4ru-com'
 
     # The subtitle to display under the title in the home page
     mainpagesubtitle = "Today I am feeling happy." 
