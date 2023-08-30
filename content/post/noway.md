@@ -21,6 +21,6 @@ categories = [
 
 {{< /rawhtml >}}
 
-{{< chat cactus-comments >}}
+
 
 
