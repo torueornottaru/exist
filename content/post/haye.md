@@ -12,5 +12,4 @@ categories = [
 
 +++
 Today's day is nice let's see how tomorrow goes
-
-{{ template "_internal/disqus.html" . }}
+{{ partial "disqus.html" . }}
