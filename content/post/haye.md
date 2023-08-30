@@ -12,4 +12,4 @@ categories = [
 
 +++
 Today's day is nice let's see how tomorrow goes
-{{< chat a >}}
+
