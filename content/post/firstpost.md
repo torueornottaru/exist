@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "First proper post now that everything is sorted out"
-date = "2023-09-06"
+date = "2023-09-07"
 description = "I made this to write, instead I am not writing"
 tags = [
     "Balls",
