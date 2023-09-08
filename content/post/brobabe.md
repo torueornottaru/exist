@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "WAAAAAA"
-date = "2023-09-06"
+date = "2023-09-08"
 description = "MORE writeups"
 tags = [
     "Balls",
