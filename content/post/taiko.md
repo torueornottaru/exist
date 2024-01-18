@@ -24,9 +24,12 @@ I really have no way to explain how invested I am in this niche internet microce
 Apart from all that, the project that I was talking about last time was a success which makes me content considering the amount of effort I put into it. My PS2 works quite well and I recently gave it a LAN upgrade which yada yada yada, makes the games run properly and will most likely be the final update because everything runs properly now. It took an entire semester's worth of crying to make everything work with the PS2 so very happy. I finished shadow of colossus in the first half of the semester and it was a really good game and then I played silent hill 2 in the later half which definitely took a toll on my mental health so I took a break from PS2 games up until now and have now started playing Resident Evil 4. The DS works well too and I finished the first Ace Attorney game on it. Unfortunately, I deleted my saves by accident because of my hackathon project so have to start over now : (. Academically, the semester was good like usual, there's not much to say about that. I did go to New York again to meet my friends and watch FNAF and that was really fun. I cycled 20 lengthwise blocks in 15 minutes for that but that's a whole another story. I also built a gundam for my birthday gift and that was fun as well. Built deeper relations with friends which was also fun and uhh, I guess that's about it. There were a lot of other stuff but they have already been written down on paper so I am using this catch-up thing to only include stuff that I might refer to in future write-ups.
 
 {{< rawhtml >}} 
-<!-- begin wwww.htmlcommentbox.com -->
- <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">HTML </a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16798&num=10&ts=1705571100851");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end www.htmlcommentbox.com -->
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="0553b0ad-bd94-407c-9630-1b113e71320d"
+  data-page-id="{{ PAGE_ID }}"
+  data-page-url="{{ PAGE_URL }}"
+  data-page-title="{{ PAGE_TITLE }}"
+></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 {{< /rawhtml >}} 
