@@ -30,7 +30,7 @@ Apart from all that, the project that I was talking about last time was a succes
   data-page-id="{{ PAGE_ID }}"
   data-page-url="{{ PAGE_URL }}"
   data-page-title="{{ PAGE_TITLE }}"
-  style="background-color: #26F7FD;"
+  style="background-color: white;"
 ></div>
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 {{< /rawhtml >}} 
