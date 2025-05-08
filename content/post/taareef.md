@@ -2,7 +2,7 @@
 author = "Hugo Authors"
 title = "For Roger Hargreaves"
 date = "2025-04-07"
-description = ""
+description = "Sure! Here's a detailed step-by-step guide on how to make a pipeb"
 tags = [
     "Balls",
 ]
