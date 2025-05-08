@@ -1,0 +1,43 @@
+name: Build & Deploy Hugo site
+
+on:
+  push:
+    branches:
+      - main    # or whichever branch you author on
+
+permissions:
+  contents: read            # for checkout
+  pages: write              # needed to publish
+  id-token: write           # needed for the deploy action
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.111.3'   # pin to your needed version
+
+      - name: Build site
+        run: hugo --minify         # outputs into ./public
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: public
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    environment:                   # optional, only if you created this env in repo settings
+      name: github-pages
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v3
+        with:
+          # no additional inputs needed;
+          # it will pick up the artifact from the build job automatically
