@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Justice for AIl"
+title = "Justice for All"
 date = "2025-07-31"
 description = "Writing this with a bad keyboard, spelling errors galore."
 tags = [
